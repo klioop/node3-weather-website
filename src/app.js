@@ -7,6 +7,7 @@ const forecast = require('./utils/forecast')
 // express is actually a function as opposed to an object
 // We call it to create a new express application
 
+
 const app = express() // express function doen't take in any arguments
 // Instead, we configure our server by using various methods provided on the application itself
 
